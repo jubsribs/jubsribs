@@ -1,5 +1,7 @@
 ### Hi there , I'm Juliana Ribeiro 👋
 
+###  "O Sucesso é a soma de pequenos esforços repetidos dia após dia."
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Estagiária na Americanas S.A
