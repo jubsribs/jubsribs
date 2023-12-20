@@ -4,7 +4,6 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on development system in Americanas S.A
 - 🌱 I’m currently learning:
 
 <img    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30"/>                             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="30"/>                                                  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="30"/>                                       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30"/>
