@@ -1,9 +1,5 @@
-### Hi there , I'm Juliana Ribeiro 👋
-
-###  "O Sucesso é a soma de pequenos esforços repetidos dia após dia."
-
-### - Developer System Junior
-### - Degree in Analysis and Developer System
+- Developer System Junior
+- Degree in Analysis and Developer System
 
 - 🌱 I’m currently learning:
 
