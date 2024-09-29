@@ -1,4 +1,4 @@
-- Developer System Junior
+- Software Engineer
 - Degree in Analysis and Developer System
 
 - 🌱 I’m currently learning:
